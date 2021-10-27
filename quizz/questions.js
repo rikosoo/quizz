@@ -10,7 +10,7 @@ let questions = [
         answer: 1
     },
     {
-        question: 'Onde é o local certo de colocar o javascript?',
+        question: 'Onde é o local correto de colocar o javascript?',
         options: [
             'Na tag body',
             'Na tag head',
